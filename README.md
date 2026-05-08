@@ -18,7 +18,7 @@
 <div>
 
   <p align="center">
-    <img src="./dist/reaction-meme.gif" align="right" width="140" alt="Cute cat saying no thanks, I use AI" />
+    <img src="./dist/reaction-meme.gif" align="right" width="150" alt="Cute cat saying no thanks, I use AI" />
   </p>
   <div align="left">
 
@@ -27,11 +27,13 @@
   - 像是很多位置都在慢慢松动，一时却又想不出还能去往哪里。<br/>
 
   - 所以只能把手里的事再做细一点，假装自己还握得住明天。
+
+  - 有时候不是不想停下来，只是停下来以后，更不知道该往哪边走。<br/>
+
+  - 世界好像一直在催人更新，而人只能一边迟疑，一边继续往前。
   </div>
 
 </div>
-<br>
-<br>
 <br>
 
 ### Frontend
