@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=console.log('Hello+World');%3Cprint('Hello+World')" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=360&separator=%3C&lines=console.log('Hello+World');%3Cprint('Hello+World')" alt="Typing SVG" /></a>
 </p>
 
 <!-- 
@@ -15,14 +15,24 @@
 
 ### 🌿 A Few Lines
 
-<p align="center">
-  <img src="./dist/reaction-meme.gif" align="right" width="150" alt="Cute cat saying no thanks, I use AI" />
-</p> 
-<div align="left">
+<div>
 
-- 风越来越大，可路并没有因此更清楚。<br/>
-- 像是很多位置都在慢慢松动，一时却又想不出还能去往哪里。<br/>
-- 所以只能把手里的事再做细一点，假装自己还握得住明天。
+  <p align="center">
+    <img src="./dist/reaction-meme.gif" align="right" width="140" alt="Cute cat saying no thanks, I use AI" />
+  </p>
+  <div align="left">
+
+  - 风越来越大，可路并没有因此更清楚。<br/>
+
+  - 像是很多位置都在慢慢松动，一时却又想不出还能去往哪里。<br/>
+
+  - 所以只能把手里的事再做细一点，假装自己还握得住明天。
+  </div>
+
+</div>
+<br>
+<br>
+<br>
 
 ### Frontend
 
