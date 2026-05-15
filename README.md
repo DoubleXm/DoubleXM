@@ -46,20 +46,20 @@
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black" />
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white" />
   <img alt="uni-app" src="https://img.shields.io/badge/uni--app-2B9939.svg?logo=wechat&logoColor=white" />
-  <img alt="qiankun" src="https://img.shields.io/badge/qiankun-1E293B.svg?logoColor=white" />
-  <img alt="wujie" src="https://img.shields.io/badge/wujie-334155.svg?logoColor=white" />
+  <img alt="qiankun" src="https://img.shields.io/badge/qiankun-6051A5.svg?logoColor=white" />
+  <img alt="wujie" src="https://img.shields.io/badge/wujie-EE6052.svg?logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-646CFF.svg?logo=vite&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black" />
   <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785.svg?logo=storybook&logoColor=white" />
 </p>
 
-### Backend
+### Backend 
 
 <p>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white" />
 </p>
 
@@ -67,17 +67,28 @@
 
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57.svg?logo=sqlite&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white" />
 </p>
 
-### DevOps & Tools
+### Middleware & Infrastructure
+
+<p>
+  <img alt="Nacos" src="https://img.shields.io/badge/Nacos-2091F9.svg?logoColor=white" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white" />
+</p>
+
+### DevOps & Observability
 
 <p>
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26.svg?logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white" />
+  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59.svg?logo=sentry&logoColor=white" />
 </p>
 
 ### Testing
